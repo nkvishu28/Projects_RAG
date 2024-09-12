@@ -1,5 +1,5 @@
 # Projects_RAG
-Mini project on RAG using Open source LLM hosted on GROQ cloud platform - Chatbot with PDF files.
+Mini project on RAG using Open source LLM hosted on GROQ cloud platform - Chatbot with PDF files - PDF Conversation with RAG_Another LLM.py
 
 This project is to establish a conversational chat with the PDF files. The PDF files will be providing the context for the user query.
 
